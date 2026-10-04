@@ -4,3 +4,6 @@
 *.fls
 *.log
 *.out
+*.bbl
+*.blg
+*.run.xml
